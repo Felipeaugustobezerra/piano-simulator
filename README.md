@@ -11,7 +11,7 @@ O objetivo desse projeto é criar um jogo simulando um piano utilizando HTML, CS
 
 ## 🖥 Preview do Jogo:
 <div>
-  <img src="" alt="Imagem da tela do jogo">
+  <img width="1672" alt="Simulator piano" src="https://github.com/Felipeaugustobezerra/piano-simulator/assets/58082993/856600f0-e7b5-4149-b83c-09d6fd004913">
 </div>
 
 - Venha jogar acessando [aqui nesse link do GithubPages](https://github.com/Felipeaugustobezerra/piano-simulator.git/)
@@ -26,9 +26,6 @@ O objetivo desse projeto é criar um jogo simulando um piano utilizando HTML, CS
 - Ainda você pode controlar o volume do piano ou esconder os carecteres mostrados no piano.
 
 ## 🤔 O que foi feito de diferente nesse jogo:
-- Utilizado Favicon;
-- Colocado mais teclas e sons no piano;
-- Foi organizado as teclas do piano de forma correta, respeitando os tons  e semitons;
 - Utilizei um background de notas musicais.
 
 ## 📌 Créditos
